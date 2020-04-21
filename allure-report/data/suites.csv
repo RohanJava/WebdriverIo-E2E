@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 21 11:51:16 CEST 2020","Tue Apr 21 11:51:20 CEST 2020","3410","","login page feature test","","login page feature test","verify to click on login icon","verify to click on login icon",""
+"passed","Tue Apr 21 11:51:11 CEST 2020","Tue Apr 21 11:51:16 CEST 2020","5821","","login page feature test","","login page feature test","verify login page title","verify login page title",""
+"passed","Tue Apr 21 11:51:20 CEST 2020","Tue Apr 21 11:51:24 CEST 2020","4158","","login page feature test","","login page feature test","verify to click on login button","verify to click on login button",""

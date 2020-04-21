@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b3ee3fd350cc234c",
+  "name" : "verify to click on login icon",
+  "time" : {
+    "start" : 1587462676971,
+    "stop" : 1587462680381,
+    "duration" : 3410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0b55a4b07d5ee77",
+  "name" : "verify login page title",
+  "time" : {
+    "start" : 1587462671149,
+    "stop" : 1587462676970,
+    "duration" : 5821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da77a76419dccdd",
+  "name" : "verify to click on login button",
+  "time" : {
+    "start" : 1587462680381,
+    "stop" : 1587462684539,
+    "duration" : 4158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

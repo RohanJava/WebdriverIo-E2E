@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "login page feature test",
+    "children" : [ {
+      "name" : "verify login page title",
+      "uid" : "c0b55a4b07d5ee77",
+      "parentUid" : "a30a6882edeb37f0546bbff4026b702b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587462671149,
+        "stop" : 1587462676970,
+        "duration" : 5821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "verify to click on login icon",
+      "uid" : "b3ee3fd350cc234c",
+      "parentUid" : "a30a6882edeb37f0546bbff4026b702b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587462676971,
+        "stop" : 1587462680381,
+        "duration" : 3410
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "verify to click on login button",
+      "uid" : "5da77a76419dccdd",
+      "parentUid" : "a30a6882edeb37f0546bbff4026b702b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587462680381,
+        "stop" : 1587462684539,
+        "duration" : 4158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "a30a6882edeb37f0546bbff4026b702b"
+  } ]
+}
